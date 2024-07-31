@@ -61,3 +61,7 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 <sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
 
 # API-TOKEN (ADMIN)b087997aa2a6e1d5fa868079bb95d3fa9888c8f97f1f05c68c48f0e9de56d0c3bf347678de197ecfd23648ffecf8eb6c107d5469916edb2e668e9fc80a0bbe855ed9547d78c549629fb61387a773243542a61416c01f9293c3a4198262db53fdaad7bca77a393a90ebbd42e860cbcb16b6b43c17a50f66aa33d3a41a04ddec7a
+
+# Link download database: https://mega.nz/file/Fz90kYID#jQvtfRztXH2qtau6uG4H-OpjwQt8qj7oCRFnt_qiJB8
+
+# Instructions: Unzip in the folder containing the source backend
