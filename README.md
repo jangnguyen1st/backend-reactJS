@@ -67,3 +67,5 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 # Instructions: Unzip in the folder containing the source backend
 
 # Account Admin: testis9@backend.com Testis9@backend.com
+
+# query
