@@ -65,3 +65,5 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 # Link download database: https://mega.nz/file/Fz90kYID#jQvtfRztXH2qtau6uG4H-OpjwQt8qj7oCRFnt_qiJB8
 
 # Instructions: Unzip in the folder containing the source backend
+
+# Account Admin: testis9@backend.com Testis9@backend.com
