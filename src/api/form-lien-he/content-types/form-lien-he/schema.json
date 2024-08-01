@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "form_lien_hes",
+  "info": {
+    "singularName": "form-lien-he",
+    "pluralName": "form-lien-hes",
+    "displayName": "form_lien_he"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "phone": {
+      "type": "string"
+    }
+  }
+}

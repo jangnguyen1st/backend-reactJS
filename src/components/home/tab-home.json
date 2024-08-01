@@ -1,13 +1,16 @@
 {
-  "collectionName": "components_shared_images",
+  "collectionName": "components_home_tab_homes",
   "info": {
-    "displayName": "Image",
-    "icon": "earth",
+    "displayName": "tab_home",
+    "icon": "stack",
     "description": ""
   },
   "options": {},
   "attributes": {
-    "image": {
+    "title": {
+      "type": "string"
+    },
+    "logo": {
       "type": "media",
       "multiple": false,
       "required": false,
@@ -18,11 +21,10 @@
         "audios"
       ]
     },
-    "alt": {
-      "type": "string"
-    },
-    "link": {
-      "type": "string"
+    "images": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.image"
     }
   }
 }

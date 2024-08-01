@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_home_image_detail_contents",
+  "info": {
+    "displayName": "image_detail_content",
+    "icon": "stack"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "url_detail": {
+      "type": "string"
+    }
+  }
+}

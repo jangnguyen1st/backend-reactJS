@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_header_normal_navs",
+  "info": {
+    "displayName": "normal_nav",
+    "icon": "bulletList"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}

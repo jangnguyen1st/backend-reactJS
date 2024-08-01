@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_home_content_detail_homes",
+  "info": {
+    "displayName": "content_detail_home",
+    "icon": "stack",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "text"
+    },
+    "image_detail": {
+      "type": "component",
+      "repeatable": true,
+      "component": "home.image-detail-content"
+    }
+  }
+}
